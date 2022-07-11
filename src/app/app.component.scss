@@ -1,0 +1,42 @@
+.shadow-navbar {
+  box-shadow: 0px 2px 9px grey;
+}
+
+.font-logo {
+  font-size: 30px;
+  font-weight: 500;
+  font-family: system-ui;
+  margin-left: 2%;
+}
+
+.ul-menu {
+  ul {
+    width: 90%;
+
+    li {
+      margin-left: 3%;
+    }
+  }
+}
+
+.width-tabs {
+  max-width: 1500px !important;
+}
+
+.size-imagen {
+  width: 1300px;
+  height: 1000px;
+}
+
+.row-size {
+  width: 100%;
+}
+
+.borde-table {
+  border-top: 0px !important;
+}
+
+.color-divider {
+  color: black;
+  width: 100%;
+}
